@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-06-16T08:37:48-06:00</updated><id>http://localhost:4000/</id><title type="html">SamuelGale</title><subtitle>Lessons learned building websites to make a living and for fun.
+</subtitle><entry><title type="html">An adventure in losing weight</title><link href="http://localhost:4000/personal/2017/06/15/losing-weight.html" rel="alternate" type="text/html" title="An adventure in losing weight" /><published>2017-06-15T12:15:13-06:00</published><updated>2017-06-15T12:15:13-06:00</updated><id>http://localhost:4000/personal/2017/06/15/losing-weight</id><content type="html" xml:base="http://localhost:4000/personal/2017/06/15/losing-weight.html">&lt;p&gt;Since March 2016 I’ve lost over 30 lbs, and I countinue getting in better and better shape. A few people asked what helped, so I thought I’d share my thoughts here:&lt;/p&gt;
+
+&lt;h3 id=&quot;remember-your-motivation&quot;&gt;Remember your motivation&lt;/h3&gt;
+
+&lt;p&gt;It’s important that you have motivation to improve, and that you don’t forget it. Turning that motivation into an artifact can help! Write it down and/or share it often.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Here’s mine:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;As a youth leader in 2016, I went on a campout with some 12 and 13 year old young men. There were several moments where I couldn’t keep up with the youth I was leading. That was discouraging. I use to challenge the youth to push-up competitions and help them carry their packs on hikes. If I couldn’t keep up with the youth as a young man in his 20s, how would I be able to keep up with my kids as they - and I - get older?&lt;/p&gt;
+
+&lt;p&gt;A couple weeks later I appeared in a family member’s vlog and was shocked how out of shape I looked. I looked nothing like what I imagined - I had a growing double chin, a growing gut, and my shirt kept coming up over my love handles during an active segment. That was a tipping point, and that video, posted online for the world to see, provided a great artifact I could look back at over and over again. I still want to empty to cupboard of junk food and do push-ups every time I see that vlog.&lt;/p&gt;
+
+&lt;h3 id=&quot;remember-the-formula&quot;&gt;Remember the formula&lt;/h3&gt;
+
+&lt;p&gt;I heard all you have to do to lose weight is burn more calories than you consume. That’s really simple!&lt;/p&gt;
+
+&lt;p&gt;Think of it like a scale with calories burned on one side and calories consumed on the other. If the scale is balanced you’ll maintain weight. If the consumption side is heavier, you gain weight, if the burning side is heavier you’ll lose weight.&lt;/p&gt;
+
+&lt;p&gt;So simple: eat one less spoonful, you’ll tip the balance of the scale. Move a little more while your at work and the balance will tip further! Every movement or bite you take - or don’t take - counts.&lt;/p&gt;
+
+&lt;h3 id=&quot;have-positive-internal-stories&quot;&gt;Have positive internal stories&lt;/h3&gt;
+
+&lt;p&gt;I tell myself a few things over and over which help:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;“All I have to do is move a little more and eat a little less.”&lt;/li&gt;
+  &lt;li&gt;“This is not impossible, just a little uncomfortable.”&lt;/li&gt;
+  &lt;li&gt;“A lot of small steps add up to big changes over time.”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;keep-your-plan-simple&quot;&gt;Keep your plan simple&lt;/h3&gt;
+
+&lt;p&gt;My plan is nothing extreme, and I’m OK with the slow progress I’ve made - over time it’s added up to a lot! I still treat myself to junk food and ice cream occasionally, eat pizza and burgers, just less of it. I actually tell myself to cool off and keep it simple whenever I’m tempted to do something more intense. Experience has taught me it will lead to burnout.&lt;/p&gt;
+
+&lt;p&gt;My actual plan can be broken down to four simple things:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;I only occasionally get second helpings during a meal.&lt;/li&gt;
+  &lt;li&gt;I eat a healthier, lower calorie breakfasts. (Think oatmeal sweetened with a banana, or bran flakes instead of Fruit Loops.)&lt;/li&gt;
+  &lt;li&gt;I try to move more throughout the day: parking further from store entrances, standing at my desk, and working out.&lt;/li&gt;
+  &lt;li&gt;I don’t go out to eat as often, and try to eat smaller portions or healthier options when I do.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;have-a-community&quot;&gt;Have a community&lt;/h3&gt;
+
+&lt;p&gt;Having my wife’s support is probably been the biggest reason I’ve actually been able to make this change. Going to the gym with her turns a chore into a fun experience. Remembering her excitement for me, even before I thought I had made any substantial progress, inspires me to put down the second donut at work.&lt;/p&gt;
+
+&lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
+
+&lt;p&gt;For me, to saying that “lifestyle change trumps dieting” has been so true! It’s taken effort to improve my lifestyle, but not &lt;em&gt;that&lt;/em&gt; much and doesn’t take a ton of thought. Life is still enjoyable. Best, I feel like I could keep up what I’m currently doing for years to come!&lt;/p&gt;</content><author><name></name></author><summary type="html">Since March 2016 I’ve lost over 30 lbs, and I countinue getting in better and better shape. A few people asked what helped, so I thought I’d share my thoughts here:</summary></entry><entry><title type="html">Typechecking</title><link href="http://localhost:4000/js/2017/06/14/typechecking.html" rel="alternate" type="text/html" title="Typechecking" /><published>2017-06-14T10:35:00-06:00</published><updated>2017-06-14T10:35:00-06:00</updated><id>http://localhost:4000/js/2017/06/14/typechecking</id><content type="html" xml:base="http://localhost:4000/js/2017/06/14/typechecking.html">&lt;h2 id=&quot;strings&quot;&gt;Strings&lt;/h2&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;nx&quot;&gt;string&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;hasOwnProperty&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'toString'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;or&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;string&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;typeOf&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;===&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'string'&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><author><name></name></author><summary type="html">Strings string.hasOwnProperty('toString'); or string typeOf === 'string'</summary></entry><entry><title type="html">Random Note Generator</title><link href="http://localhost:4000/jekyll/update/2017/06/02/random-note-generator.html" rel="alternate" type="text/html" title="Random Note Generator" /><published>2017-06-02T08:15:13-06:00</published><updated>2017-06-02T08:15:13-06:00</updated><id>http://localhost:4000/jekyll/update/2017/06/02/random-note-generator</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/06/02/random-note-generator.html">&lt;div id=&quot;noteGenerator&quot;&gt;
+	&lt;div id=&quot;note&quot;&gt;&lt;/div&gt;
+	&lt;button id=&quot;generate&quot; class=&quot;bigButton&quot;&gt;Random Note&lt;/button&gt;
+	&lt;button id=&quot;accidentalToggle&quot; class=&quot;bigButton&quot;&gt;Allow Sharps/Flats&lt;/button&gt;
+	&lt;div class=&quot;interval&quot;&gt;
+		&lt;h3&gt;Auto-Update&lt;/h3&gt;
+		New note every &lt;input id=&quot;changeInterval&quot; type=&quot;text&quot; placeholder=&quot;30&quot; /&gt; seconds. 
+		&lt;button id=&quot;startInterval&quot;&gt;Start&lt;/button&gt;
+		&lt;button id=&quot;stopInterval&quot;&gt;Stop&lt;/button&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;link href=&quot;https://fonts.googleapis.com/css?family=Raleway:200,400,600,900&quot; rel=&quot;stylesheet&quot; /&gt;
+
+&lt;style&gt;
+#noteGenerator {
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    border: 1px solid gray;
+    display: block;
+    padding: 10px 50px;
+    width: 350px;
+    margin: 20px auto;
+}
+
+h1 {
+	margin-top: 15px;
+	font-size: 32px;
+	font-weight: 200;
+}
+
+button, input {
+	font-family: 'Raleway', sans-serif;
+	font-weight: 400;
+}
+
+button {
+	border: 1px solid #ccc;
+	background: #eee;
+	outline: none;
+}
+
+button:active,
+button.active {
+	border: 1px solid #aaa;
+	background: #ddd;
+	outline: none;
+	box-shadow: inset 0 1px 3px #aaa;
+}
+
+.bigButton {
+	padding: 8px 15px;
+	font-size: 16px;
+}
+
+#note {
+	height: 300px;
+	font-size: 140px;
+	line-height: 260px;
+	font-weight: 900;
+}
+
+h3 {
+	font-weight: 600;
+	margin-bottom: 10px;
+}
+
+.interval {
+	margin: 40px 0;
+}
+
+#changeInterval {
+	width: 60px;
+	font-weight: 600;
+	padding: 3px;
+}
+&lt;/style&gt;
+
+&lt;script&gt;
+class RandomNoteGenerator {
+	constructor() {
+		// Resources
+		this.noteSet = ['A', 'B', 'C', 'D', 'E', 'F', 'G']
+		this.accidentalSet = ['#', '', 'b']
+		
+		// Defaults
+		this.allowAccidentals = false
+		this.intervalRunning = false
+		this.duration = 3
+		this.interval = null
+		
+		// Elements
+		this.noteDiv = document.getElementById('note')
+		this.generateButton = document.getElementById('generate')
+		this.accidentalToggle = document.getElementById('accidentalToggle')
+		this.startIntervalButton = document.getElementById('startInterval')
+		this.stopIntervalButton = document.getElementById('stopInterval')
+		this.intervalInput = document.getElementById('changeInterval')
+		
+		// Event Listeners
+		this.generateButton
+			.addEventListener('click', this.generate.bind(this))
+		this.accidentalToggle
+			.addEventListener('click', this.toggleAccidentals.bind(this))
+		this.startIntervalButton
+			.addEventListener('click', this.startInterval.bind(this))
+		this.stopIntervalButton
+			.addEventListener('click', this.stopInterval.bind(this))
+		
+		this.generate()
+		this.intervalToggleMarkup()
+		
+	}
+
+	generate() {
+		let note = this.getNote(this.noteDiv.innerHTML)
+		this.noteDiv.innerHTML = note
+	}
+	
+	getNote(previousNote) {
+		let accidental = null;
+		let note = this.randomNote()
+		if (this.allowAccidentals) {
+			note = note + this.randomAccidental()
+		}
+		// Use recursion to make sure we always have a new note
+		if (previousNote == note) {
+			return this.getNote(note)
+		} else {
+			return note
+		}
+	}
+	
+	randomNote() {
+		let index = Math.floor(Math.random() * 7)
+		return this.noteSet[index]
+	}
+	
+	randomAccidental() {
+		let index = Math.floor(Math.random() * 3)
+		return this.accidentalSet[index]
+	}
+	
+	toggleAccidentals() {
+		this.allowAccidentals = !this.allowAccidentals
+		if (this.allowAccidentals) {
+			this.accidentalToggle.classList.add('active')
+		} else {
+			this.accidentalToggle.classList.remove('active')
+		}
+	}
+	
+	startInterval() {
+		// Update interval
+		this.duration = Number(this.intervalInput.value) ? Number(this.intervalInput.value) : 30
+		// Clear previous intervals, so only one will run at a time
+		clearTimeout(this.interval)
+		// start a new interval
+		this.intervalRunning = true
+		this.recursiveGenerate()
+		
+		this.intervalToggleMarkup()
+	}
+	
+	recursiveGenerate() {
+		if (this.intervalRunning) {
+			this.generate()
+			
+			this.interval = setTimeout(
+				()=&gt;{
+					this.recursiveGenerate()
+				},
+				(this.duration * 1000)
+			)
+		}
+	}
+	
+	stopInterval() {
+		this.intervalRunning = false
+		this.intervalToggleMarkup()
+	}
+	
+	intervalToggleMarkup() {
+		if (this.intervalRunning) {
+			this.startIntervalButton.classList.add('active')
+			this.stopIntervalButton.classList.remove('active')
+		} else {
+			this.startIntervalButton.classList.remove('active')
+			this.stopIntervalButton.classList.add('active')
+		}
+	}
+}
+randomNoteGenerator = new RandomNoteGenerator()
+&lt;/script&gt;</content><author><name></name></author><summary type="html">Random Note Allow Sharps/Flats Auto-Update New note every seconds. Start Stop</summary></entry><entry><title type="html">Common JS Array Methods</title><link href="http://localhost:4000/jekyll/update/2017/06/02/js-array-methods.html" rel="alternate" type="text/html" title="Common JS Array Methods" /><published>2017-06-02T08:15:13-06:00</published><updated>2017-06-02T08:15:13-06:00</updated><id>http://localhost:4000/jekyll/update/2017/06/02/js-array-methods</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/06/02/js-array-methods.html">&lt;h3 id=&quot;validating&quot;&gt;Validating:&lt;/h3&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;nb&quot;&gt;Array&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;isArray&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;maybeArray&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// returns boolean&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;creating-from-string&quot;&gt;Creating from string:&lt;/h3&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;kd&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;newArray&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;stringVariable&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;split&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;delimeter&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;adding-and-removing-elements&quot;&gt;Adding and removing elements:&lt;/h3&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;nx&quot;&gt;theArray&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;push&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;newValue&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// add newValue to the end of theArray&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;theArray&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;unshift&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;newValue&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// add newValue to the beginning of theArray&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;theArray&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;pop&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// removes the final element from theArray&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;lastElem&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;theArray&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;pop&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// removes the theArray's last element and stores it as lastElem&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;theArray&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;shift&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// removes the first element of theArray&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;firstElem&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;theArray&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;shift&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// removes theArray's first elements and stores it as firstElem&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;creating-from-an-array-from-another-array&quot;&gt;Creating from an Array from another array:&lt;/h3&gt;
+&lt;p&gt;Assigning array as value actually just assigns a referernce. To create a new array with identical values, you must iterate through each element of the array assigning it to the new array.
+Like:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;kd&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;newArray&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;oldArray&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;map&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;currentElement&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+	&lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;currentElement&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Slice():&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;kd&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;newArray&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;oldArray&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;slice&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Grab elements from oldArray, starting at the first element, until we reach the fifth element. The fifth element is not included. If either parameter is negative, it will count backwards from the end, to determine the position. The second, ending parameter is optional. The original array is untouched.&lt;/p&gt;
+
+&lt;p&gt;Filter:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;kd&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;newArray&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;oldArray&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;filter&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;currentVariable&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+	&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;typeof&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;currentVariable&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;!==&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;number&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+		&lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;false&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+	&lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;currentVariable&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;%&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;===&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;})&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Iterate over each element from oldArray. If the value returned by the callback function is true, store the currentVariable into newArray. In this case, an array of the even numbers in oldArray will be set to the value of newArray.&lt;/p&gt;
+
+&lt;h3 id=&quot;ordering-methods&quot;&gt;Ordering methods:&lt;/h3&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;nx&quot;&gt;myArray&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;reverse&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// reverse the contents of the array&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;myArray&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;sort&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// Alphabetically sort the elements in the array&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Custom Sort:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;nx&quot;&gt;myArray&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;sort&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;){&lt;/span&gt;
+	&lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;If the callback function returns 0, parameter is equal to b. If the result is greater than 0, a is assumed greater than b. If less than 0, b is assumed greater than a.&lt;/p&gt;
+
+&lt;h3 id=&quot;iterating-methods&quot;&gt;Iterating Methods:&lt;/h3&gt;
+&lt;p&gt;ForEach:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;nx&quot;&gt;myArray&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;forEach&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;element&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;index&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;array&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+	&lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;`&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;index&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;element&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;\&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;`&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Every:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;nx&quot;&gt;myArray&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;every&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;currentItem&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+	&lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;typeof&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;currentItem&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;===&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;number&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;currentItem&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;50&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;.every()&lt;/code&gt; returns a boolean value. True only if every element returns true from the callback function. In this case, every() will return true only if myArray has only number elements greater than 50.&lt;/p&gt;
+
+&lt;p&gt;Some:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;nx&quot;&gt;myArray&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;some&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;currentItem&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+	&lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;typeof&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;currentItem&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;===&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;number&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;currentItem&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;50&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Like &lt;code class=&quot;highlighter-rouge&quot;&gt;.every()&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;.some()&lt;/code&gt; also returns a boolean value. True if any of the elements return true from the callback function. In this case, every() will return if any element in myArray is a number greater than 50.&lt;/p&gt;
+
+&lt;h3 id=&quot;reducing&quot;&gt;Reducing:&lt;/h3&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;cm&quot;&gt;/* reduce an array to the total of its elements */&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;sum&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;20&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;30&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;].&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;reduce&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
+	&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;runningTotal&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;current&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;runningTotal&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;current&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+	&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// Sum is 70&lt;/span&gt;
+
+&lt;span class=&quot;cm&quot;&gt;/* reduce an array to the max value */&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;max&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;20&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;30&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;].&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;reduce&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
+	&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;runningMax&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;current&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+		&lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;runningMax&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;current&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;?&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;runningMax&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;current&lt;/span&gt;
+	&lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+	&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// max is 30&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Applies a callback, which accepts an accumulator, and against each element in an array&lt;/p&gt;</content><author><name></name></author><summary type="html">Validating: Array.isArray(maybeArray); // returns boolean</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2017/05/23/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2017-05-23T12:10:13-06:00</published><updated>2017-05-23T12:10:13-06:00</updated><id>http://localhost:4000/jekyll/update/2017/05/23/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/05/23/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Viewing locally hosted web pages on your desktop from your phone</title><link href="http://localhost:4000/jekyll/update/2017/04/26/locally-hosted-files-on-phone.html" rel="alternate" type="text/html" title="Viewing locally hosted web pages on your desktop from your phone" /><published>2017-04-26T12:10:13-06:00</published><updated>2017-04-26T12:10:13-06:00</updated><id>http://localhost:4000/jekyll/update/2017/04/26/locally-hosted-files-on-phone</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/04/26/locally-hosted-files-on-phone.html">&lt;p&gt;Previewing a local build, hosted on your desktop, from your phone can be tricky.&lt;/p&gt;
+
+&lt;p&gt;In the past, I would just deploy the changes I wanted to test to a server somewhere and navigate to that address from my phone’s browser. While that works, it’s adds a few additional steps to previewing even the smallest of changes from your mobile device. Sometimes it would be nice if your phone could just see everything your computer saw in it’s browser, local builds and all!&lt;/p&gt;
+
+&lt;p&gt;Luckily, that’s totally possible! And you should be able to set it up in 10 minutes or less.&lt;/p&gt;
+
+&lt;p&gt;I chose to use MITProxy to accomplish this because it’s an open source tool (it’s free, and I’m cheap), easy to run from your cli and works with a number of different OSs. Another benefit of this is it will allow you to monitor all requests being made from your phone to the internet, granting you deeper insight into what’s really going on behind the scenes of your favorite apps and sites your visiting.&lt;/p&gt;
+
+&lt;h3 id=&quot;initial-install-instructions&quot;&gt;Initial Install Instructions:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Install &lt;strong&gt;mitmproxy&lt;/strong&gt; on your computer:
+    &lt;ul&gt;
+      &lt;li&gt;See: &lt;a href=&quot;http://docs.mitmproxy.org/en/stable/install.html&quot;&gt;http://docs.mitmproxy.org/en/stable/install.html&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;Using homebrew: &lt;code class=&quot;highlighter-rouge&quot;&gt;brew install mitmproxy&lt;/code&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Find your computer’s IPv4 address
+    &lt;ul&gt;
+      &lt;li&gt;On MAC you can hold option while clicking the network icon in the tray&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Start up mitmproxy from your chosen cli (you can set the port using the -p option): 
+  &lt;code class=&quot;highlighter-rouge&quot;&gt;mitmproxy -p 8888&lt;/code&gt;
+  You’ll need to leave this running while you want to access sites from your desktop.&lt;/li&gt;
+  &lt;li&gt;Make sure your phone and Mac are using the same wifi&lt;/li&gt;
+  &lt;li&gt;Configure your phone to use the proxy to access the network
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;iPhone:&lt;/strong&gt;
+        &lt;ul&gt;
+          &lt;li&gt;Go to the Settings -&amp;gt; Wi-Fi&lt;/li&gt;
+          &lt;li&gt;Tap the blue arrow next to your current network to access the network settings&lt;/li&gt;
+          &lt;li&gt;Find the HTTP Proxy settings and select Manual.&lt;/li&gt;
+          &lt;li&gt;Enter your IPv4 Address and the port your chose to run your proxy on&lt;/li&gt;
+          &lt;li&gt;Save these changes&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Android:&lt;/strong&gt;
+        &lt;ul&gt;
+          &lt;li&gt;Go to settings -&amp;gt; Wi-Fi&lt;/li&gt;
+          &lt;li&gt;Long hold on your current wifi network to open and modify the network settings&lt;/li&gt;
+          &lt;li&gt;You may need to choose to view the advanced options&lt;/li&gt;
+          &lt;li&gt;Update the Proxy Hostname as your computer’s IPv4 address, update the Proxy Port to the port you chose to run your proxy on&lt;/li&gt;
+          &lt;li&gt;Save these changes&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;On your phone navigate to &lt;a href=&quot;http://mitm.it&quot;&gt;mitm.it&lt;/a&gt; and install the appropriate certificate for your device (on iPhones, you may need to use Safari to do this)&lt;/li&gt;
+  &lt;li&gt;You should now be able to monitor all requests from your phone and access sites available to your desktop (eg. mysite.dev and localhost)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;instructions-for-subsequent-use&quot;&gt;Instructions for subsequent use:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Repeat &lt;strong&gt;steps 3 and 4&lt;/strong&gt; of the initial Install Instructions&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Also note:&lt;/strong&gt; This approach doesn’t just work for phones, you can also allow other computers in your network to access this proxy and view your local builds with a few updates to their network settings. This article will point you in the right direction: &lt;a href=&quot;https://kb.netgear.com/25191/Configuring-TCP-IP-and-Proxy-Settings-on-Mac-OSX?cid=wmt_netgear_organic&quot;&gt;https://kb.netgear.com/25191/Configuring-TCP-IP-and-Proxy-Settings-on-Mac-OSX?cid=wmt_netgear_organic&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Previewing a local build, hosted on your desktop, from your phone can be tricky.</summary></entry></feed>
