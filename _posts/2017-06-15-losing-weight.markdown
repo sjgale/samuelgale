@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "An adventure in losing weight"
+title:  "Thoughts about losing weight"
 date:   2017-06-15 12:15:13 -0600
 categories: personal
 ---
