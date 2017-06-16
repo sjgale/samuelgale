@@ -25,7 +25,7 @@ Think of it like a scale with calories burned on one side and calories consumed 
 
 So simple: eat one less spoonful, you'll tip the balance of the scale. Move a little more while your at work and the balance will tip further! Every movement or bite you take - or don't take - counts.
 
-### Positive internal stories
+### Have positive internal stories
 
 I tell myself a few things over and over which help: 
 * "All I have to do is move a little more and eat a little less." 
