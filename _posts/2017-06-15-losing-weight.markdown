@@ -17,7 +17,7 @@ As a youth leader in 2016, I went on a campout with some 12 and 13 year old youn
 
 A couple weeks later I appeared in a family member's vlog and was shocked how out of shape I looked. I looked nothing like what I imagined - I had a growing double chin, a growing gut, and my shirt kept coming up over my love handles during an active segment. That was a tipping point, and that video, posted online for the world to see, provided a great artifact I could look back at over and over again. I still want to empty to cupboard of junk food and do push-ups every time I see that vlog.
 
-### Remember the formula
+### The simple formula
 
 I heard all you have to do to lose weight is burn more calories than you consume. That's really simple!
 
