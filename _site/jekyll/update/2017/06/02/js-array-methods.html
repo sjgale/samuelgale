@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>Common JS Array Methods</title>
-  <meta name="description" content="Validating: Array.isArray(maybeArray); // returns boolean">
+  <meta name="description" content="Validating: Array.isArray(maybeArray); // returns boolean Creating from string: let newArray = stringVariable.split(delimeter) Adding and removing elements: ...">
 
   <link rel="stylesheet" href="/assets/main.css">
   <link rel="canonical" href="http://localhost:4000/jekyll/update/2017/06/02/js-array-methods.html">
@@ -90,11 +90,16 @@
 
 <h3 id="adding-and-removing-elements">Adding and removing elements:</h3>
 
-<figure class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="nx">theArray</span><span class="p">.</span><span class="nx">push</span><span class="p">(</span><span class="nx">newValue</span><span class="p">);</span> <span class="c1">// add newValue to the end of theArray</span>
-<span class="nx">theArray</span><span class="p">.</span><span class="nx">unshift</span><span class="p">(</span><span class="nx">newValue</span><span class="p">);</span> <span class="c1">// add newValue to the beginning of theArray</span>
-<span class="nx">theArray</span><span class="p">.</span><span class="nx">pop</span><span class="p">();</span> <span class="c1">// removes the final element from theArray</span>
-<span class="kd">let</span> <span class="nx">lastElem</span> <span class="o">=</span> <span class="nx">theArray</span><span class="p">.</span><span class="nx">pop</span><span class="p">();</span> <span class="c1">// removes the theArray's last element and stores it as lastElem</span>
-<span class="nx">theArray</span><span class="p">.</span><span class="nx">shift</span><span class="p">();</span> <span class="c1">// removes the first element of theArray</span>
+<figure class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="nx">theArray</span><span class="p">.</span><span class="nx">push</span><span class="p">(</span><span class="nx">newValue</span><span class="p">);</span> <span class="c1">// add newValue to the end of theArray
+</span>
+<span class="nx">theArray</span><span class="p">.</span><span class="nx">unshift</span><span class="p">(</span><span class="nx">newValue</span><span class="p">);</span> <span class="c1">// add newValue to the beginning of theArray
+</span>
+<span class="nx">theArray</span><span class="p">.</span><span class="nx">pop</span><span class="p">();</span> <span class="c1">// removes the final element from theArray
+</span>
+<span class="kd">let</span> <span class="nx">lastElem</span> <span class="o">=</span> <span class="nx">theArray</span><span class="p">.</span><span class="nx">pop</span><span class="p">();</span> <span class="c1">// removes the theArray's last element and stores it as lastElem
+</span>
+<span class="nx">theArray</span><span class="p">.</span><span class="nx">shift</span><span class="p">();</span> <span class="c1">// removes the first element of theArray
+</span>
 <span class="kd">let</span> <span class="nx">firstElem</span> <span class="o">=</span> <span class="nx">theArray</span><span class="p">.</span><span class="nx">shift</span><span class="p">();</span> <span class="c1">// removes theArray's first elements and stores it as firstElem</span></code></pre></figure>
 
 <h3 id="creating-from-an-array-from-another-array">Creating from an Array from another array:</h3>
@@ -123,7 +128,8 @@ Like:</p>
 
 <h3 id="ordering-methods">Ordering methods:</h3>
 
-<figure class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="nx">myArray</span><span class="p">.</span><span class="nx">reverse</span><span class="p">()</span> <span class="c1">// reverse the contents of the array</span>
+<figure class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="nx">myArray</span><span class="p">.</span><span class="nx">reverse</span><span class="p">()</span> <span class="c1">// reverse the contents of the array
+</span>
 <span class="nx">myArray</span><span class="p">.</span><span class="nx">sort</span><span class="p">()</span> <span class="c1">// Alphabetically sort the elements in the array</span></code></pre></figure>
 
 <p>Custom Sort:</p>
@@ -163,7 +169,8 @@ Like:</p>
 <span class="kd">let</span> <span class="nx">sum</span> <span class="o">=</span> <span class="p">[</span><span class="mi">10</span><span class="p">,</span> <span class="mi">20</span><span class="p">,</span> <span class="mi">10</span><span class="p">,</span> <span class="mi">30</span><span class="p">].</span><span class="nx">reduce</span><span class="p">(</span>
 	<span class="p">(</span><span class="nx">runningTotal</span><span class="p">,</span> <span class="nx">current</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="nx">runningTotal</span> <span class="o">+</span> <span class="nx">current</span><span class="p">,</span>
 	<span class="mi">0</span>
-<span class="p">);</span> <span class="c1">// Sum is 70</span>
+<span class="p">);</span> <span class="c1">// Sum is 70
+</span>
 
 <span class="cm">/* reduce an array to the max value */</span>
 <span class="kd">let</span> <span class="nx">max</span> <span class="o">=</span> <span class="p">[</span><span class="mi">10</span><span class="p">,</span> <span class="mi">20</span><span class="p">,</span> <span class="mi">10</span><span class="p">,</span> <span class="mi">30</span><span class="p">].</span><span class="nx">reduce</span><span class="p">(</span>
